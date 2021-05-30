@@ -1,0 +1,25 @@
+.User__title{
+    font-size: 22px;
+    color: #4c4b4b;
+    margin-bottom: 7px;
+}
+
+.User_radio{
+    display: flex;
+    flex-direction: column;
+}
+.User_radio input{
+    margin-right: 7px;
+}
+
+.User_radio label{
+    color: #4c4b4b;
+
+}
+
+.active-text{
+    color: blue;
+}
+.User{
+    /*max-width: 100px;*/
+}
